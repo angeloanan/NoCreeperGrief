@@ -1,0 +1,7 @@
+name: NoCreeperGrief
+version: ${project.version}
+main: xyz.angeloanan.nocreepergrief.NoCreeperGrief
+api-version: 1.13
+authors: [angeloanan]
+description: Stops creeper from griefing but keeps their damage
+website: https://angeloanan.xyz
